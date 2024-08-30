@@ -1,8 +1,8 @@
 # Custom_String_Clas_-Implementation
 Custom String Class Implementation in C++:
 
- Developed a custom MyString class as a part of a Data Structures and Algorithms (DSA) project, demonstrating core concepts such as dynamic memory management, operator overloading, and 
- exception handling. Implemented key functionalities like string concatenation, substring search, and custom memory management, simulating the behavior of std::string.
+  Developed a custom MyString class as a part of a Data Structures and Algorithms (DSA) project, demonstrating core concepts such as dynamic memory management, operator overloading, and 
+  exception handling. Implemented key functionalities like string concatenation, substring search, and custom memory management, simulating the behavior of std::string.
 
 Key Points to Highlight:
 
